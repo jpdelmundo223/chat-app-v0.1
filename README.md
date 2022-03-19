@@ -7,7 +7,7 @@ git clone https://github.com/jpdelmundo223/chat-app-v0.1.git
 cd chat-app-v0.1
 ```
 
-## Activate virtual environment
+## Setting up your virtual environment
 ```
 venv\Sripts\activate
 ```
